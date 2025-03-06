@@ -13,8 +13,8 @@
     />
     <link
       rel="stylesheet"
-      href="https://code.getmdl.io/1.3.0/material.green-red.min.css" /> "
-    />
+      href="https://code.getmdl.io/1.3.0/material.green-red.min.css" />
+      
     <link rel="stylesheet" href="./css/style.css" />
     <link
       rel="apple-touch-icon"
